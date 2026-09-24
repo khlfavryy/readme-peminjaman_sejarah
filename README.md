@@ -1,6 +1,7 @@
 # Heritage Haven — Sistem Peminjaman Buku Perpustakaan Digital
 
 Repository : https://github.com/khlfavryy/repository-peminjaman-sejarah.git
+mockup & algoritma : https://drive.google.com/drive/folders/1XrREon6eosp1Ic_ow6Q8UPEAuQOLuXrW?usp=drive_link
 
 Aplikasi web manajemen perpustakaan berbasis PHP native (tanpa framework) dengan tiga peran pengguna: **Owner**, **Pustakawan**, dan **Siswa**. Mendukung katalog buku publik, peminjaman & pengembalian mandiri oleh siswa, rekap kunjungan, label QR buku, hingga statistik dashboard.
 
